@@ -17,7 +17,7 @@
     "andoi-util": "^1.2.0",
     "axios": "^0.21.1",
     "canvacord": "^5.2.0",
-    "canvas": "^2.7.0",
+    "canvas": "^2.8.0",
     "canvas-constructor": "^4.1.0",
     "chalk": "^4.1.1",
     "chatcord": "0.0.5",
